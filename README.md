@@ -1,4 +1,4 @@
 # countDownTimer
 Timer for every new year eve
 
-demo: https://gusPiovani.github.io/countDownTimer/
+demo: https://guspiovani.github.io/TimerNewYear/
